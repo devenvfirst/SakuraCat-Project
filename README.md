@@ -1,4 +1,4 @@
-![樱猫](log\logo.jpg)
+![](logo/logo.jpg)
 ## 樱猫游戏核心文件库
 * 游戏本体文件，使用Unity开发
 * UI文件在另外一个分支里面 [飞机票](https://github.com/devenvfirst/SakuraCat-Project/tree/UI)
