@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 610509a41f8e448419a7e1a6122c05c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DialoguePrinterPrefab: {fileID: 114943319459938548, guid: 1bc08ccd31adff6439e97161aa6e1d8b,
+      type: 3}
+  - FullscreenPrinterPrefab: {fileID: 114612839004360324, guid: c87cebd3f0d4f174789cd351ce9591c4,
+      type: 3}
+  - WidePrinterPrefab: {fileID: 114943319459938548, guid: 781828b806deb1e4cbf50ef9de41da10,
+      type: 3}
+  - ChatPrinterPrefab: {fileID: 3076587132604572150, guid: 0126b92e4ff0f564aaa7a38eae3ef6e7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

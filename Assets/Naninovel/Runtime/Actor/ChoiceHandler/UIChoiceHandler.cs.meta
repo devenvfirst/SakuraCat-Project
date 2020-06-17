@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cb1f79c0d98c7b4c850cf7fd421c484
+timeCreated: 1504372975
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _choiceButtonPrefab: {fileID: 114935234543976500, guid: 42edc7aecc2c80841908c954370cb307,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

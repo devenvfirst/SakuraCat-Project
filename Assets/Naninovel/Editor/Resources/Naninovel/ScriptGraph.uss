@@ -1,0 +1,41 @@
+
+GridBackground {
+    --grid-background-color: #282828;
+    --line-color: rgba(193, 196, 192, 0.1);
+    --thick-line-color: rgba(193, 196, 192, 0.1);
+    --spacing: 10;
+}
+
+Toolbar {
+    background-color: #555555;
+}
+
+Toolbar Toggle {
+    position: absolute;
+    right: 5px;
+}
+
+Toolbar Toggle Label {
+    -unity-text-align: middle-right;
+    padding-right: 10px;
+}
+
+ScriptGraphNode #title {
+    background-color: #547dc6;
+}
+
+ScriptGraphNode #title Label {
+    color: white;
+}
+
+Port #type:hover,#type.if:hover {
+    color: white;
+}
+
+Port #type.if {
+    color: #c5b96c;
+}
+
+.unity-disabled {
+    opacity: 1.0;
+}
